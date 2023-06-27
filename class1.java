@@ -14,7 +14,7 @@ public class class1 {
         addNumbers(5,8);
         addNumbers(2,6);
         addNumbers(3,6);
-        addNumbers(3,7);
+
 
 
 

@@ -6,12 +6,13 @@ public class class1 {
         for (int i = 0; i < 100; i++) {
             System.out.println("Second for loop");
         }
-        for (int i = 0; i < 7; i++) {
-            System.out.println("");
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Hi");
         }
 
 
         addNumbers(5,8);
+        addNumbers(3,6);
 
 
     }

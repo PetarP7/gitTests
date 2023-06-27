@@ -21,7 +21,6 @@ public class class1 {
     }
     public static int addNumbers(int a, int b, int c) {
         int sum = a + b + c;
-        // return valueok
         return sum;
     }
 

@@ -1,18 +1,20 @@
 public class class1 {
     public static void main(String[] args) {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 11; i++) {
             System.out.println("Smile usmivka");
         }
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 133; i++) {
             System.out.println("Second for loop");
         }
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 2; i++) {
             System.out.println("Hi");
         }
 
 
         addNumbers(5,8);
+        addNumbers(2,6);
         addNumbers(3,6);
+        addNumbers(3,7);
         addNumbers(3,6);
 
 

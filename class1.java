@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class class1 {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
@@ -11,22 +13,18 @@ public class class1 {
         }
 
 
-        addNumbers(5,8);
+        addBigNumbers(234234L,8L);
 
 
     }
-    public static int addNumbers(int a, int b) {
-        int sum = a + b;
-        // return valueok
-        return sum;
+    public static long addBigNumbers(Long a, Long b) {
+       return Long.MAX_VALUE - a + b;
+
     }
 
-    public static int abs(int a){
-        return Math.abs(a);
-    }
 
-    public static double negative(int a){
-        return -a;
+    public static void negative(){
+        System.out.println("This is a negative number");
     }
 
 }

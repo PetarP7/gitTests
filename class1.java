@@ -25,4 +25,8 @@ public class class1 {
         return Math.abs(a);
     }
 
+    public static double negative(int a){
+        return -a;
+    }
+
 }

@@ -21,4 +21,8 @@ public class class1 {
         return sum;
     }
 
+    public static int abs(int a){
+        return Math.abs(a);
+    }
+
 }

@@ -11,11 +11,11 @@ public class class1 {
         }
 
 
-        addNumbers(5,8);
-        addNumbers(2,6);
-        addNumbers(3,6);
-        addNumbers(3,7);
-        addNumbers(3,6);
+        addNumbers(5,8, 4);
+        addNumbers(2,6, 3);
+        addNumbers(3,6,2);
+        addNumbers(3,7,1);
+        addNumbers(3,6,9);
 
 
     }
